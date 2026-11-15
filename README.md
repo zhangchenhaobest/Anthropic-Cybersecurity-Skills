@@ -1,3 +1,29 @@
+# Anthropic-Cybersecurity-Skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+817 个结构化网络安全技能，映射 MITRE ATT&CK、NIST CSF 2.0 等 6 大框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="assets/banner.png" alt="Anthropic Cybersecurity Skills" width="100%">
 </p>
